@@ -4,3 +4,5 @@ AlignConsecutiveMacros: AcrossComments
 AlignConsecutiveDeclarations: true
 IndentCaseLabels: true
 AllowShortIfStatementsOnASingleLine: true
+AllowShortCaseLabelsOnASingleLine: true
+ColumnLimit: 81
